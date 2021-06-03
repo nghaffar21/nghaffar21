@@ -10,4 +10,4 @@ These projects include:
 - Data Science and Machine Learning
 - Digital Design
 
-I am passionate mostly about Data Science and Game development.
+I am passionate mostly about Data Science and Game development. And I am trying to find internships in these areas.
