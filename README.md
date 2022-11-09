@@ -1,13 +1,14 @@
-I am Nima Ghaffarzadeh, Computer Science student at Bilkent University. In order to find my interest, 
-I have tried different fields of Computer Science and I share the projects that I have done in or out of university. 
+I am Nima Ghaffarzadeh, Computer Science student and Web developere. My github includes various repositories that contain projects from various fields of Computer Science.
 
 These projects include:
 
-- Android Development
 - Web Development
-- Networks
+- Blockchain Development
+- Decentraland and Web3
 - Game Development
+- Android Development
+- Networks
 - Data Science and Machine Learning
 - Digital Design
 
-I am passionate mostly about Data Science and Game development. And I am trying to find internships in these areas.
+My main interest and focus is Web development, with a tendency towards Web3 and Blockchain(Solidity, Ethersjs, Hardhat, etc.).
