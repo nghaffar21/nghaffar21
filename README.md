@@ -1,6 +1,6 @@
-I am Nima Ghaffarzadeh, Computer Science student and Web developer. My github includes various repositories that contain projects from various fields. These repositories are the results of me playing around with different subjects, such as Game Development, Machine Learning, Blockchain Development, etc. At the end of this playing around I got the realization that my favorite branch is Web Development, and hence I put most of my time and focus on programming web.
+I am Nima, Computer Science student and Web developer. My github includes various repositories that have projects from various fields. These repositories are the results of me playing around with different subjects, such as Game Development, Machine Learning, Blockchain Development, etc. At the end of this playing around I found out that my favorite branch is Web Development, so I put most of my time and focus on programming web.
 
-My project subjects are:
+My projects are of the following types:
 
 - Web Development
 - Blockchain Development
